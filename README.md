@@ -19,5 +19,3 @@ A **Java-based GUI application** to help you track and manage your daily screen 
 - Local File Storage for History & Streaks
 
 ---
-
-## 📂 Project Structure
